@@ -1,16 +1,12 @@
 {
-  "name": "thread-loader",
-  "version": "3.0.4",
+  "name": "@lhuanyu/thread-loader",
+  "version": "1.0.2",
   "description": "Runs the following loaders in a worker pool",
   "license": "MIT",
-  "repository": "webpack-contrib/thread-loader",
+  "repository": "BUPTlhuanyu/thread-loader",
   "author": "Tobias Koppers @sokra",
-  "homepage": "https://github.com/webpack-contrib/thread-loader",
-  "bugs": "https://github.com/webpack-contrib/thread-loader/issues",
-  "funding": {
-    "type": "opencollective",
-    "url": "https://opencollective.com/webpack"
-  },
+  "homepage": "https://github.com/BUPTlhuanyu/thread-loader",
+  "bugs": "https://github.com/BUPTlhuanyu/thread-loader/issues",
   "main": "dist/cjs.js",
   "engines": {
     "node": ">= 10.13.0"
